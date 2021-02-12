@@ -1,0 +1,13 @@
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\bin\Debug\netcoreapp3.1\DS_modify.exe
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\bin\Debug\netcoreapp3.1\DS_modify.deps.json
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\bin\Debug\netcoreapp3.1\DS_modify.runtimeconfig.json
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\bin\Debug\netcoreapp3.1\DS_modify.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\bin\Debug\netcoreapp3.1\DS_modify.dll
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\bin\Debug\netcoreapp3.1\DS_modify.pdb
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\obj\Debug\netcoreapp3.1\DS_modify.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\obj\Debug\netcoreapp3.1\DS_modify.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\obj\Debug\netcoreapp3.1\DS_modify.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\obj\Debug\netcoreapp3.1\DS_modify.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\obj\Debug\netcoreapp3.1\DS_modify.dll
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\obj\Debug\netcoreapp3.1\DS_modify.pdb
+C:\Users\Nikita\source\repos\DS_modify\DS_modify\obj\Debug\netcoreapp3.1\DS_modify.genruntimeconfig.cache
